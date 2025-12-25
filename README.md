@@ -2,7 +2,16 @@
 ## **Software Engineer**  
 **AI&ML | Python | SQL-DBMS | AWS | RAG & LLM | n8n | Automation Engineer**
 
-💡 Passionate about building intelligent systems using **Generative AI**, **LLMs**, **NLP**, and **Automation workflows** using tools like **n8n** and **Python-based microservices. Cloud based Deployment and Docker, Github CI\CD Pipeline and Actions**.  
+💡 Passionate about building intelligent systems using **Generative AI**, **LLMs**, **NLP**, and **Automation workflows** using tools like **n8n** and **Python-based microservices**
+
+~ Cloud based Deployment and Docker, Github CI\CD Pipeline and Actions.
+
+~ Well versed in Database Management Systems, profiecient in Data handling and accuracy. IIS Server Configuration and Specialization, Cloud AWS and CI/CD pipelines.
+
+~ I have worked on Generative AI applications, RAG pipelines and end-to-end CI/CD Integration on ML model deployment in cloud platforms like AWS, Render, GitHub.
+
+~ strong DevOps and MLOps pipeline skills to streamline workflows, automate deployments, and monitor model performance in real-world environments.
+
 
  ### **Tech Stacks I Use**
 
@@ -42,6 +51,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/4248/4248443.png" height="45" alt="sql" />
   
 </p>
+
+I'm always eager and curious for new opportunities to get into new exciting projects, lets connect and collab.
 
 ### 📫 **You can reach me out through**
 - **Email:** itsjoswa@gmail.com  
